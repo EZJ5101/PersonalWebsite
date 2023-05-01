@@ -1,0 +1,72 @@
+.header-container {
+  color: rgb(200, 196, 196);
+  background-color:rgb(3, 3, 63);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family:'Courier New', Courier, monospace
+}
+
+.header {
+  width: 1000px;
+  height: 100px;
+  font-size: 40px;
+  text-align: center;
+}
+
+
+.github {
+  color: rgb(200, 196, 196);
+  text-decoration: none;
+}
+
+.linkedin {
+  color: rgb(200, 196, 196);
+  text-decoration: none;
+}
+
+.instagram {
+  color: rgb(200, 196, 196);
+  text-decoration: none;
+}
+
+.facebook {
+  color: rgb(200, 196, 196);
+  text-decoration: none;
+}
+
+body {
+  background-color: rgba(1, 49, 49, 0.964);
+}
+
+.footer {
+  position: sticky;
+  height: 60px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(3, 3, 63);
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  margin-bottom: 0.1em; ;
+}
+
+.tech-skills {
+  margin-left: -1.5em;
+  color: rgb(200, 196, 196);
+}
+
+.repositories {
+  color: rgb(200, 196, 196);
+  float: right;
+}
+
+.email {
+text-align: center;
+display:inline-block;
+}
+
+.social-grid-container {
+float: right;
+}
